@@ -83,4 +83,4 @@ This group also shows the greatest variability in PHDI scores, suggesting varyin
   
 + The dependence on fossil fuels must be decreased through the expansion of sustainable energy sources, such as wind, solar and ocean energy. 
 
-+ The PHDI should be the core metric when evaluating the development of a country. Our relation to the environment is vital to a long-term and sustainable development of the planet and current societies.
++ The PHDI should be the core metric when evaluating the development of a country. Our relationship to the environment is vital for a long-term and sustainable development of the planet and its societies.
