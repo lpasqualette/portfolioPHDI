@@ -79,8 +79,9 @@ This group also shows the greatest variability in PHDI scores, suggesting varyin
 ## Recommendations:
 
 + Wealthier countries need to transform their consumption-based societies. High levels of consumerism in a linear economy lead to environmental pressure that will translate into climate change. 
-    + It is necessary to prioritize healthier and sustainable purchasing habits plus to introduce circular economy to different industry sectors.
+  + It is necessary to prioritize healthier and sustainable purchasing habits plus to introduce circular economy practices to different industry sectors.
   
 + The dependence on fossil fuels must be decreased through the expansion of sustainable energy sources, such as wind, solar and ocean energy. 
+  + This expansion needs to account for the public and environmental impact in their origin countries and it needs to align with global policies ensuring fair trade and social equity support.
 
 + The PHDI should be the core metric when evaluating the development of a country. Our relationship to the environment is vital for a long-term and sustainable development of the planet and its societies.
