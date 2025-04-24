@@ -79,7 +79,7 @@ This group also shows the greatest variability in PHDI scores, suggesting varyin
 ## Recommendations:
 
 + Wealthier countries need to transform their consumption-based societies. High levels of consumerism in a linear economy lead to environmental pressure that will translate into climate change. 
-    + It is necessary to prioritize healthier and sustainable purchasing habits plus to introduce circular economy to different sectors.
+    + It is necessary to prioritize healthier and sustainable purchasing habits plus to introduce circular economy to different industry sectors.
   
 + The dependence on fossil fuels must be decreased through the expansion of sustainable energy sources, such as wind, solar and ocean energy. 
 
