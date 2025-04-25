@@ -54,9 +54,11 @@ Other relevant observations:
 
 The exact reasons for the increased pressure on the planet led by wealthier countries might include:
 
-+ Some of those countries - such as United States, Canada, Saudi Arabia, United Arab Emirate, Kuwait, China and Russia - are the main fossil fuel producers in the world. Therefore, their lower Carbon Dioxide Emissions (production) Index drive their lower PHDI ranking [(Global Energy Review, 2025)](https://www.iea.org/reports/global-energy-review-2025).
++ Some of those countries - such as United States, Canada, Saudi Arabia, United Arab Emirate, Kuwait, China and Russia - are the main fossil fuel producers in the world. Therefore, their lower Carbon Dioxide Emissions (production) Index contribute to their decline in the PHDI rank position [(Global Energy Review, 2025)](https://www.iea.org/reports/global-energy-review-2025).
 
 + Countries such as Ireland, Singapore, Luxembourg, Switzerland, Finland and Norway rank lower in the PHDI rank because of their high Material Footprint Index. The Material Footprint reflects the amount of raw materials extracted worldwide to meet the consumption demands of a specific country. Therefore, the *consumption* pattern in those countries is overall unsustainable [(European Environmental Agency, 2023)](https://www.eea.europa.eu/en/analysis/indicators/europes-material-footprint). 
+
+*To note:* countries scoring low in the CO₂ emissions Index might also score low in the Material Footprint index. 
 
 ## Key Conclusions:
 
