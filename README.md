@@ -46,7 +46,7 @@ Multiple data-driven insights came from this analysis. Regarding to the two cent
 
 Other relevant observations:
 
-+ Countries classified as Very High Human Development exhibited the biggest difference between their HDI rank and the PHDI rank among groups (SD = 27.50; Max: 20; Min: -35). 
++ Countries classified as Very High Human Development exhibited the biggest difference between their HDI rank and the PHDI rank among groups (SD = 27.50). 
 
 + Countries belonging to the Very High Human Development group had the greatest variability in their PHDI levels - followed by the group of High Human Development countries.
 
